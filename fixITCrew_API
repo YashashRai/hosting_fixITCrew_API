@@ -1,0 +1,1044 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "price": "₹799",
+      "name": "Home Cleaning",
+      "image": "https://cdn-icons-png.flaticon.com/128/994/994928.png",
+      "description": "Professional home cleaning services ensure your living space is spotless and hygienic. Our trained cleaners use eco-friendly products to sanitize every corner, from floors to countertops. Whether you need a one-time deep clean or regular maintenance, we customize services to fit your needs. We cover kitchens, bathrooms, bedrooms, and living areas, paying attention to high-touch surfaces. Our goal is to save you time while providing a healthier environment. Book now for a sparkling home without the hassle!",
+      "sub_services": [
+        {
+          "id": "homeclean001",
+          "Job": "General Home Cleaning",
+          "description": "Our general home cleaning service ensures your entire house is spotless and organized. Our cleaning experts focus on all areas, including living rooms, bedrooms, kitchens, and bathrooms. We clean surfaces, wipe down counters, vacuum floors, and sanitize high-touch areas. This service is perfect for anyone looking for a fresh start at home or preparing for special occasions. We use eco-friendly cleaning products that are safe for your family and pets. With our professional touch, you’ll enjoy a cleaner and healthier living environment.",
+          "image": "https://content.jdmagicbox.com/comp/ballia/m4/9999p5494.5494.230920123506.u3m4/catalogue/royal-wash-ballia-ballia-sink-cleaning-services-jg2amoirps.jpg",
+          "price": "₹799",
+          "duration": "2 hours",
+          "rating": 4.6,
+          "discount": "10%"
+        },
+        {
+          "id": "homeclean002",
+          "Job": "Deep Cleaning",
+          "description": "Deep cleaning goes beyond regular cleaning, targeting hard-to-reach areas and thoroughly sanitizing surfaces. Our team will clean areas like behind appliances, inside ovens and refrigerators, baseboards, and vents. We scrub tiles, clean grout, and remove built-up dirt and grime from neglected spots. This service is ideal for homes that need more attention, particularly for seasonal cleaning or post-renovation cleanup. Our deep cleaning service ensures your home is healthier, fresher, and ready to be lived in comfortably.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRshEGptL0X8ypDVNVpx97b4AA3l7RlMCiRvA&s",
+          "price": "₹1499",
+          "duration": "4 hours",
+          "rating": 4.8,
+          "discount": "15%"
+        },
+        {
+          "id": "homeclean003",
+          "Job": "Kitchen Cleaning",
+          "description": "Kitchen cleaning is essential for maintaining a hygienic cooking environment. Our service includes cleaning countertops, wiping down cabinets, sanitizing sinks, and cleaning stovetops and ovens. We also remove grease buildup from vents and range hoods, and ensure your appliances are spotless. This service helps maintain cleanliness in the heart of your home, preventing the spread of germs and bacteria. If you want to ensure your kitchen remains functional and sanitary, our professional kitchen cleaning service is perfect for you.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlol858j2EUUAfryzATNjc8jjG1KFqvQrM6Q&s",
+          "price": "₹999",
+          "duration": "2 hours",
+          "rating": 4.7,
+          "discount": "12%"
+        },
+        {
+          "id": "homeclean004",
+          "Job": "Bathroom Cleaning",
+          "description": "Bathroom cleaning is crucial for maintaining a clean, fresh, and healthy bathroom. Our experts focus on scrubbing tiles, sanitizing sinks, tubs, and toilets, and wiping down mirrors and countertops. We clean and disinfect all bathroom surfaces, removing mold, soap scum, and hard water stains. We also pay attention to high-touch areas like faucets and light switches. This service ensures your bathroom remains hygienic, sparkling, and free from germs, making it a safe space for your family to use every day.",
+          "image": "https://images.squarespace-cdn.com/content/v1/611b3a86fb6a226aadffcf79/8717ef64-bce8-4181-a888-d1e05dd054b3/how+to+clean+bathroom.png?format=1000w",
+          "price": "₹799",
+          "duration": "1.5 hours",
+          "rating": 4.6,
+          "discount": "8%"
+        },
+        {
+          "id": "homeclean005",
+          "Job": "Carpet Cleaning",
+          "description": "Carpet cleaning is essential for maintaining the look and feel of your home while improving air quality. Our professional cleaners use high-powered vacuums and specialized cleaning solutions to remove dirt, stains, and allergens from your carpets. Whether it’s a high-traffic area or a pet-friendly home, we can restore your carpets to their original condition. We also offer stain protection treatments to extend the life of your carpet. Regular carpet cleaning helps improve the indoor environment and ensures a fresh and clean feel throughout your home.",
+          "image": "https://www.sophistimom.com/wp-content/uploads/2024/05/Carpet-Cleaning-new.jpeg",
+          "price": "₹1299",
+          "duration": "2 hours",
+          "rating": 4.7,
+          "discount": "10%"
+        },
+        {
+          "id": "homeclean006",
+          "Job": "Window Cleaning",
+          "description": "Window cleaning helps enhance your home’s appearance by ensuring your windows are streak-free and spotless. Our cleaning service covers both interior and exterior windows, removing dust, dirt, and smudges. We use professional tools to reach high windows and clean them safely. Clean windows allow more natural light into your home, giving it a brighter and more inviting atmosphere. Whether it's a residential or commercial building, our window cleaning service will leave your windows gleaming, improving the overall look of your space.",
+          "image": "https://ntpropertycare.com/wp-content/uploads/2024/02/clean-window-1-scaled.jpg",
+          "price": "₹599",
+          "duration": "1 hour",
+          "rating": 4.6,
+          "discount": "7%"
+        },
+        {
+          "id": "homeclean007",
+          "Job": "Upholstery Cleaning",
+          "description": "Upholstery cleaning is necessary to maintain the cleanliness and comfort of your furniture. Over time, dust, stains, and allergens accumulate on sofas, chairs, and cushions. Our professional cleaning team uses specialized tools and non-toxic products to deep clean your upholstery, removing dirt and restoring its appearance. We clean all types of upholstery, including fabric, leather, and microfiber, ensuring a thorough and safe clean. Regular upholstery cleaning not only prolongs the life of your furniture but also improves air quality by eliminating trapped allergens.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjZi5Sy9bAupNhtJBM9SNbmS9PFTFQuO9XDg&s",
+          "price": "₹799",
+          "duration": "1.5 hours",
+          "rating": 4.5,
+          "discount": "10%"
+        },
+        {
+          "id": "homeclean008",
+          "Job": "Post-Construction Cleaning",
+          "description": "Post-construction cleaning is designed to remove dust, debris, and construction materials from your newly renovated or built home. Our cleaning experts will remove leftover building materials, clean windows, dust all surfaces, and sanitize areas that may have been overlooked. We also focus on cleaning the flooring, including removing cement stains and dust from newly installed tiles or hardwood floors. This service is essential for ensuring your home is livable and spotless after any construction or renovation project.",
+          "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/RR/ZB/FT/136237894/post-construction-cleaning-service.jpg",
+          "price": "₹1999",
+          "duration": "5 hours",
+          "rating": 4.8,
+          "discount": "15%"
+        },
+        {
+          "id": "homeclean009",
+          "Job": "Move-In/Move-Out Cleaning",
+          "description": "Move-in and move-out cleaning services are perfect for preparing a home for new tenants or owners. Whether you’re moving in or out, our expert cleaners will ensure the space is clean, sanitized, and ready for occupancy. We focus on cleaning all surfaces, including floors, walls, cabinets, and appliances. We also ensure the bathroom and kitchen areas are spotless and ready for use. This service is ideal for anyone transitioning to a new home or preparing to rent or sell their property. Our team will leave your home fresh and inviting.",
+          "image": "https://homemaidbetter.com/wp-content/uploads/2018/08/Move-Out-Cleaning-1.jpg",
+          "price": "₹1599",
+          "duration": "4 hours",
+          "rating": 4.7,
+          "discount": "12%"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "price": "₹799",
+      "name": "Plumbing",
+      "image": "https://cdn-icons-png.flaticon.com/128/10366/10366020.png",
+      "description": "Licensed plumbers offer 24/7 solutions for leaks, clogs, and installations. From faucet repairs to sewer line inspections, we ensure water flows smoothly in your home. Emergency services prevent costly water damage. Transparent pricing and upfront quotes guarantee no surprises. Trust our experts for durable fixes and preventive maintenance. Serving residential and commercial properties with prompt, reliable service.",
+      "sub_services": [
+        {
+          "id": "plum001",
+          "Job": "Leak Detection",
+          "description": "Leak detection is an essential service that helps identify hidden leaks in your plumbing system before they cause major damage. Our expert plumbers use advanced tools and techniques, including thermal cameras and acoustic sensors, to pinpoint leaks in pipes, walls, and ceilings. Leaks can occur anywhere in your system, and even small leaks can lead to mold growth, water damage, and high utility bills. Our team performs a thorough inspection to locate leaks, including checking faucets, pipes, and appliances. Once detected, we provide quick and effective solutions, whether it’s sealing a small leak or replacing a damaged section of pipe. This service is ideal for homes and businesses experiencing unexplained water bills or water damage. We ensure that the plumbing system is properly sealed and restored, preventing future issues and ensuring long-term safety and efficiency.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBUvYph8J1v3ZiAWwffQ11W563c-MaWkzr-w&s",
+          "price": "₹499",
+          "duration": "1 hour",
+          "rating": 4.5,
+          "discount": "8%"
+        },
+        {
+          "id": "plum002",
+          "Job": "Pipe Replacement",
+          "description": "Pipe replacement is a vital service that ensures the safety and efficiency of your plumbing system. Over time, pipes can corrode, crack, or develop blockages, leading to leaks or poor water flow. Our plumbing team specializes in replacing old, damaged pipes with high-quality materials, including copper, PVC, and PEX. We begin by inspecting the pipes to determine the extent of the damage. Then, we carefully remove the old pipes and install new ones, ensuring all connections are secure and leak-free. Whether you’re dealing with burst pipes, aging plumbing, or rusted fittings, we handle the entire process from start to finish. We also provide advice on pipe maintenance and water-saving solutions. Pipe replacement can prevent major plumbing emergencies and extend the lifespan of your system. Choose this service for a reliable, long-lasting solution to your plumbing problems.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzBBJI4BZs5O6zZ_0-K1ahDvpOFPcW8OcdSA&s",
+          "price": "₹999",
+          "duration": "2 hours",
+          "rating": 4.7,
+          "discount": "10%"
+        },
+        {
+          "id": "plum003",
+          "Job": "Clogged Drain Cleaning",
+          "description": "Clogged drains are a common issue that can cause inconvenience and even damage to your plumbing system. Whether it’s a slow drain or a completely blocked one, our expert plumbers provide quick and efficient drain cleaning services. Using high-pressure water jetting and drain snakes, we clear blockages caused by food, grease, hair, or foreign objects. We also inspect the drain system to identify any underlying issues, such as pipe corrosion or tree root intrusion. By removing clogs and buildup, we restore proper water flow, preventing future backups and foul odors. Regular drain cleaning can also reduce the risk of major plumbing issues down the line. This service is ideal for sinks, bathtubs, toilets, and floor drains. Trust our team to provide a reliable, hassle-free solution to your clogged drains.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIL0Wlq2yBWhh_00ft3RfROYkRznddwI9Kqw&s",
+          "price": "₹299",
+          "duration": "45 mins",
+          "rating": 4.6,
+          "discount": "5%"
+        },
+        {
+          "id": "plum004",
+          "Job": "Water Heater Repair",
+          "description": "Water heater repair is an essential service to ensure you always have access to hot water when you need it. Whether your heater isn’t producing hot water, is leaking, or is making strange noises, our expert plumbers can diagnose and fix the issue. We begin by inspecting the heater’s components, including the thermostat, heating element, and pressure valve. Once we identify the issue, we offer a cost-effective repair solution, replacing damaged parts or adjusting settings as needed. If the heater is beyond repair, we can recommend an efficient replacement model based on your household needs. Regular maintenance of your water heater can prevent common issues and extend its lifespan. This service is ideal for both traditional tank water heaters and tankless units. With our professional repair services, you’ll enjoy reliable hot water and peace of mind.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4etVNuilqydDyWwi7MPKlqNWiMQSHXstMsw&s",
+          "price": "₹799",
+          "duration": "1.5 hours",
+          "rating": 4.8,
+          "discount": "12%"
+        },
+        {
+          "id": "plum005",
+          "Job": "Sewer Line Cleaning",
+          "description": "Sewer line cleaning is crucial for maintaining a healthy plumbing system and preventing backups or clogs. Over time, waste, grease, and debris can build up in your sewer lines, leading to slow drains, foul smells, or even sewage backups. Our plumbers use advanced technology such as hydro jetting and video inspection to thoroughly clean your sewer lines, removing any blockages or buildup. We also inspect the lines for signs of damage, leaks, or root intrusion that could cause future issues. By ensuring your sewer lines are clean and clear, we help you avoid costly repairs and health hazards. Sewer line cleaning is recommended for homes experiencing frequent clogs, unpleasant odors, or plumbing issues. Choose this service to ensure your plumbing system operates smoothly and efficiently.",
+          "image": "https://content.jdmagicbox.com/comp/def_content_category/septic-tank-cleaning-services/3-septic-tank-cleaning-services-4-nxycx.jpg",
+          "price": "₹1199",
+          "duration": "2 hours",
+          "rating": 4.7,
+          "discount": "10%"
+        },
+        {
+          "id": "plum006",
+          "Job": "Toilet Unclogging",
+          "description": "Toilet unclogging is a necessary service when your toilet becomes blocked due to waste buildup or foreign objects. Our expert plumbers use specialized tools like augers and plungers to safely and effectively clear clogs, restoring proper function to your toilet. Whether the blockage is caused by excessive toilet paper, objects dropped in the bowl, or tree roots invading the plumbing system, we have the experience and equipment to handle it. In cases of more severe blockages, we may use high-pressure water jetting or camera inspections to locate and address the issue. This service prevents overflow, water damage, and the unpleasant odors associated with clogged toilets. Toilet unclogging is a quick, affordable, and essential service that ensures your bathroom remains functional and hygienic.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_omoyYpWH5I4h5jtyjSGeCsPFF9hszcxEoA&s",
+          "price": "₹299",
+          "duration": "30 mins",
+          "rating": 4.5,
+          "discount": "5%"
+        },
+        {
+          "id": "plum007",
+          "Job": "Bathtub Installation",
+          "description": "Bathtub installation is a specialized service that can add comfort and luxury to your bathroom. Whether you’re upgrading your existing bathtub or installing a new one, our plumbers ensure the job is done with precision. We begin by assessing the space and ensuring that the plumbing connections are suitable for the new tub. The installation process includes positioning the tub, connecting it to the water supply and drainage system, and sealing it to prevent leaks. We also check the water pressure to ensure a steady flow of hot water. Bathtub installation is ideal for those looking to enhance their bathroom’s functionality and aesthetic appeal. Our team ensures that the installation process is quick, clean, and stress-free, allowing you to enjoy your new tub in no time.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkJW55GRpxMi1xz8EqaXI-GGMyXLtbkdgDoA&s",
+          "price": "₹1499",
+          "duration": "3 hours",
+          "rating": 4.6,
+          "discount": "8%"
+        },
+        {
+          "id": "plum008",
+          "Job": "Sink Installation",
+          "description": "Sink installation is a key service that ensures your kitchen or bathroom sink is properly installed, sealed, and ready for use. Our plumbers begin by measuring the available space and ensuring the plumbing lines are correctly positioned for the new sink. We install the sink securely, connect the faucet, and check for any leaks. Whether it’s a single or double-basin sink, we ensure the drainage system is working smoothly and that the faucet functions correctly. Our experts also ensure the water supply lines are well connected and protected. Sink installation is ideal for both new homes and renovations. We ensure the process is efficient, clean, and done to the highest standards, allowing you to enjoy a fully functional and stylish sink.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjpFtFsh8dL5Y4T3uHG1ylBzmQqjTPUNKOg&s",
+          "price": "₹899",
+          "duration": "1.5 hours",
+          "rating": 4.7,
+          "discount": "10%"
+        },
+        {
+          "id": "plum009",
+          "Job": "Faucet Replacement",
+          "description": "Faucet replacement is an essential service for maintaining the functionality and appearance of your sinks, showers, and bathtubs. Over time, faucets can leak, corrode, or simply become outdated. Our plumbers can quickly remove your old faucet and install a new one, selecting a model that suits your style and budget. We ensure the faucet is installed correctly, with secure connections to the water supply and drainage system. Our team checks for any leaks, adjusts water flow, and ensures the faucet operates smoothly. Faucet replacement is ideal for outdated or damaged faucets, improving both the performance and aesthetics of your bathroom or kitchen. With this service, you’ll enjoy a fully functional and modern faucet that enhances the look of your space.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_6uSx3ghekBeOkKK1Tw8fPYISV_YLNjjZJg&s",
+          "price": "₹499",
+          "duration": "45 mins",
+          "rating": 4.8,
+          "discount": "7%"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "price": "₹799",
+      "name": "Electrical",
+      "image": "https://cdn-icons-png.flaticon.com/128/9781/9781304.png",
+      "description": "Certified electricians handle wiring, panels, and installations safely. From flickering lights to full rewiring, we resolve issues per NEC standards. Energy-efficient upgrades like LED lighting cut costs. Smart home integrations available. Emergency repairs prevent hazards. Serving homes and businesses with insured, licensed expertise.",
+      "sub_services": [
+          {
+            "id": "elec003",
+            "Job": "Switchboard Repair",
+            "description": "Switchboard repair is a crucial service for ensuring the electrical safety and efficiency of your home or workplace. Our electricians specialize in diagnosing and fixing issues like faulty sockets, loose connections, and burnt wiring. A malfunctioning switchboard can pose serious fire hazards or lead to device damage due to inconsistent power supply. We carefully inspect each component of the board, test the voltage flow, and replace damaged switches or internal wiring. Whether it’s a minor repair or a complete overhaul, we ensure the work complies with safety standards and local codes. Our team uses high-quality materials and tools for durable results. We can also upgrade your switchboard to support modern electrical loads, making it safer for use with heavy appliances. Choose this service if you notice sparks, heat, or irregular functioning of switches. We prioritize quick response and reliable fixes to prevent potential hazards and give you peace of mind.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUcDtWRR0IsyKiNkGfqM0vZ_G9aUoTE8VbsQ&s",
+            "price": "₹349",
+            "duration": "1 hour",
+            "rating": 4.6,
+            "distcount": "5%"
+          },
+          {
+            "id": "elec004",
+            "Job": "Inverter Installation",
+            "description": "Inverter installation is vital for uninterrupted power during outages, especially in areas with frequent load shedding. Our professional service ensures a safe and efficient inverter setup, tailored to your home’s power requirements. We evaluate the load demand, help you choose the right inverter capacity, and install the unit with precision. Our experts also handle wiring adjustments, battery connections, and proper earthing to prevent electrical faults. Incorrect installation can damage appliances, reduce inverter life, or lead to short circuits. That’s why we adhere to strict safety protocols. Additionally, we test the system after installation to confirm smooth switchover during power failure. Our team explains basic usage, maintenance tips, and safety guidelines to ensure optimal performance. Whether it’s a new inverter or a replacement, we provide a hassle-free, quick, and affordable installation experience, ensuring peace of mind during power cuts.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWfKIbpm9d6v43YsNtEbYDQPCPImITuvAmcg&s",
+            "price": "₹799",
+            "duration": "2 hours",
+            "rating": 4.8,
+            "distcount": "10%"
+          },
+          {
+            "id": "elec005",
+            "Job": "Tube Light Setup",
+            "description": "Our tube light setup service is designed to bring optimal lighting to your home or office, enhancing both ambiance and visibility. We handle installation of LED and fluorescent tube lights, ensuring they are securely mounted and wired correctly. Our electricians test voltage compatibility and check for faults in the wiring or fixtures before final setup. We also offer expert advice on energy-efficient lighting choices suited to your room size and usage. Tube lights often require ballast adjustments or starter replacements, which we manage with ease and safety. This service is ideal for new installations, upgrades, or replacing faulty fixtures. Proper lighting not only boosts productivity but also reduces eye strain and enhances aesthetics. We ensure minimal disruption and clean finishing, leaving your space brighter and safer. Choose this service for professional-grade, affordable tube light installation you can trust.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQElA1BV2yLjUis6syoRDTXVfnYwMbtbuvwXA&s",
+            "price": "₹249",
+            "duration": "45 mins",
+            "rating": 4.4,
+            "distcount": "8%"
+          },
+          {
+            "id": "elec006",
+            "Job": "MCB Fuse Replacement",
+            "description": "MCB fuse replacement is essential for maintaining a safe electrical system in your home or office. Miniature Circuit Breakers (MCBs) protect your circuits from overload and short circuits, but they can wear out over time. Our trained electricians inspect your fuse box, identify the faulty breaker, and replace it with a suitable new one that matches your power load. We ensure the replacement meets safety regulations and is correctly rated for your wiring system. A damaged or old MCB can result in power failures, device malfunctions, or even electrical fires. With our professional service, you can be assured of safe, quick, and long-lasting results. We also test the system after replacement to verify proper functioning and eliminate future risks. Book this service if you experience frequent tripping, burning smells, or sparks from your fuse box. It’s a simple yet crucial step toward protecting your electrical infrastructure.",
+            "image": "https://assistor.in/uploads/services/171240319081.jpg",
+            "price": "₹399",
+            "duration": "1 hour",
+            "rating": 4.7,
+            "distcount": "12%"
+          },
+          {
+            "id": "elec007",
+            "Job": "Ceiling Fan Installation",
+            "description": "Our ceiling fan installation service ensures a safe, stable, and efficient setup of fans in any room of your home. Whether you’re installing a new fan or replacing an old one, our electricians ensure proper alignment, wiring, and balance. We securely fix the mounting bracket, connect the wiring to the switchboard, and test the fan for speed and stability. A poorly installed ceiling fan can cause noise, wobbling, or even fall accidents. That’s why we follow strict safety guidelines and use quality tools to provide a reliable installation. We can also assist with assembling decorative fans or remote-controlled models. If your room lacks a ceiling junction box, we can install one as part of the service. Enjoy better air circulation and energy efficiency with our expert ceiling fan installation service—perfect for homes, offices, and commercial spaces alike.",
+            "image": "https://cheselectric.com/wp-content/uploads/2024/02/Installing-a-ceiling-fan.jpg",
+            "price": "₹349",
+            "duration": "1.5 hours",
+            "rating": 4.6,
+            "distcount": "7%"
+          },
+          {
+            "id": "elec008",
+            "Job": "Electric Geyser Fitting",
+            "description": "Electric geyser fitting is an essential service for ensuring a steady and safe supply of hot water in your home. Our expert electricians begin with assessing the wall strength, distance from power and water outlets, and recommend the best position for installation. We then mount the geyser securely, connect it to the plumbing line, and handle all electrical connections with precision. A properly installed geyser avoids risks like water leakage, overheating, or electrical shocks. We also check for proper earthing and safety valves to ensure compliance with safety standards. Our team tests the unit post-installation and walks you through the basic operations and safety precautions. Whether it’s a tank or instant geyser, we ensure it functions efficiently and reliably. Our service is quick, clean, and perfect for new installations or when replacing an old unit. Experience warm, worry-free showers with our professional geyser fitting service.",
+            "image": "https://tiimg.tistatic.com/fp/1/007/607/1-2-inch-white-color-geyser-connection-pipe-for-fitting-purpose-851.jpg",
+            "price": "₹649",
+            "duration": "2 hours",
+            "rating": 4.9,
+            "distcount": "10%"
+          },
+          {
+            "id": "elec009",
+            "Job": "Exhaust Fan Replacement",
+            "description": "Our exhaust fan replacement service helps maintain proper ventilation in areas like kitchens, bathrooms, or storerooms. We start by safely removing the old unit and checking for compatible replacements. Next, our electricians securely install the new fan, connect it to the power source, and test for smooth operation. A functioning exhaust fan is crucial for removing moisture, odors, and airborne pollutants, preventing mold growth and improving air quality. We also inspect the surrounding wiring, switch connection, and mounting area for damage or wear. If needed, we modify the fixture or wiring to support the new fan. Our experts ensure minimal noise operation and proper exhaust direction for maximum efficiency. This service is ideal when your existing fan is noisy, inefficient, or non-functional. Trust our skilled technicians for a quick and reliable exhaust fan replacement that keeps your indoor environment fresh and healthy.",
+            "image": "https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/how-to-replace-or-install-an-easy-install-bath-fan-2022-step-7.jpg",
+            "price": "₹299",
+            "duration": "1 hour",
+            "rating": 4.5,
+            "distcount": "9%"
+          },
+          {
+            "id": "elec010",
+            "Job": "Doorbell Installation",
+            "description": "Our doorbell installation service offers a reliable way to ensure your guests are always heard and greeted. We install a wide variety of doorbells, including wired, wireless, and smart video doorbells. Our electricians check for proper power supply, install the chime unit inside the house, and securely mount the button outside. For smart models, we help connect the system to your Wi-Fi and mobile app. We ensure clean and concealed wiring to maintain the aesthetic of your home. Proper installation avoids issues like delayed ringing, weak sound, or connection drops. We also test the functionality of the unit and guide you through the usage and maintenance steps. Whether you're upgrading from an old doorbell or installing one for the first time, our technicians guarantee a quick, clean, and professional finish. Book this service to add convenience and security to your home entrance today.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsv2VhNN9_sSZfwgthT6uOIbCn9GhICe_pOg&s",
+            "price": "₹199",
+            "duration": "30 mins",
+            "rating": 4.3,
+            "distcount": "6%"
+          }
+        ]
+      },
+    {
+      "id": 4,
+      "price": "₹799",
+      "name": "HVAC Services",
+      "image": "https://cdn-icons-png.flaticon.com/128/4752/4752773.png",
+      "description": "Keep your home or office comfortable year-round with our professional HVAC services. Our certified technicians handle installation, repair, and maintenance of heating, ventilation, and air conditioning systems. We work with all major brands and types of systems, ensuring optimal performance and energy efficiency. From furnace tune-ups to AC refrigerant recharges, we provide comprehensive solutions to extend your system's lifespan. Emergency repairs are available 24/7 to address sudden breakdowns during extreme weather. We also offer smart thermostat installations and duct cleaning services to improve indoor air quality. Trust us for honest assessments and transparent pricing.",
+      "sub_services": [
+        {
+          "id": "hvac001",
+          "Job": "AC Installation",
+          "description": "Our AC installation service ensures that your air conditioning system is installed correctly and efficiently. We handle both window and split AC units, ensuring proper placement, power connections, and ventilation. Our team will ensure the system is running optimally by checking refrigerant levels, air ducts, and connections. Whether it's a residential or commercial setup, our professionals ensure a hassle-free installation process, leaving you with a cool and comfortable environment.",
+          "image": "https://www.aircooless.com/wp-content/uploads/2021/05/Air-Conditioner-Installation.jpg",
+          "price": "₹3500",
+          "duration": "2 hours",
+          "rating": 4.8,
+          "discount": "10%"
+        },
+        {
+          "id": "hvac002",
+          "Job": "AC Repair",
+          "description": "Our AC repair service is designed to restore comfort to your home or office. If your air conditioning system is not cooling effectively, making strange noises, or experiencing other issues, our technicians can diagnose and fix the problem. We provide fast and reliable repairs, from minor repairs to more complex issues with the compressor, refrigerant levels, or electrical connections. Our team ensures that your AC system is working efficiently and effectively to provide optimal cooling.",
+          "image": "https://assistor.in/uploads/services/17123933957.jpg",
+          "price": "₹1999",
+          "duration": "1.5 hours",
+          "rating": 4.7,
+          "discount": "12%"
+        },
+        {
+          "id": "hvac003",
+          "Job": "AC Maintenance",
+          "description": "Regular AC maintenance is essential for extending the life of your unit and ensuring it runs efficiently. Our AC maintenance service includes cleaning air filters, checking refrigerant levels, inspecting the condenser and evaporator coils, and ensuring proper airflow. We also check the thermostat calibration and perform system diagnostics to prevent potential problems. By maintaining your AC system, you reduce energy costs, improve air quality, and prevent costly repairs in the future.",
+          "image": "https://content.jdmagicbox.com/comp/def_content_category/ac-repair-and-services-westing-house/360-f-821590643-skdlcwz7oswxyyblvvs1mhx3stvcx8dz-ac-repair-and-services-westing-house-17-h5vp0.jpg",
+          "price": "₹1200",
+          "duration": "1 hour",
+          "rating": 4.6,
+          "discount": "8%"
+        },
+        {
+          "id": "hvac004",
+          "Job": "Duct Cleaning",
+          "description": "Duct cleaning is a crucial service for maintaining a clean and healthy indoor environment. Over time, dust, debris, mold, and allergens can accumulate in your HVAC system's ducts, which can impact air quality and system performance. Our team uses professional-grade tools to clean and sanitize your air ducts, removing all the buildup and preventing airflow blockages. This service is especially important for people with allergies, asthma, or pets. Clean ducts ensure better air quality and more efficient operation of your HVAC system.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHjff9DcV7DSyUwRa3Ax4JTRzrcIYxPv5Pg&s",
+          "price": "₹1800",
+          "duration": "2 hours",
+          "rating": 4.7,
+          "discount": "10%"
+        },
+        {
+          "id": "hvac005",
+          "Job": "Thermostat Installation & Repair",
+          "description": "Thermostats control the temperature of your home, so having a functioning and efficient thermostat is key to maintaining comfort. Whether you need a new thermostat installed or your current one needs repairing, our experts can help. We install both traditional and smart thermostats, which can be controlled via your phone or voice assistants. Our repair service ensures that malfunctioning thermostats are restored to working condition, helping you save on energy bills and maintain a comfortable temperature in your home.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnaMGTQDeHNDFSNY91PgVZHWcnH_uMZudjMQ&s",
+          "price": "₹1500",
+          "duration": "1 hour",
+          "rating": 4.6,
+          "discount": "5%"
+        },
+        {
+          "id": "hvac006",
+          "Job": "Furnace Installation",
+          "description": "If you're looking to install a new furnace, our team provides professional furnace installation services to ensure your heating system operates efficiently. We handle both gas and electric furnace installations, ensuring all connections are secure and the system is running optimally. Our team will also help you choose the right size furnace for your home, maximizing heating efficiency and comfort. A proper furnace installation ensures safe, reliable heat during the colder months.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7rIy1Jd0tifpRpA3y41OHIV3632KR7gWVpA&s",
+          "price": "₹5000",
+          "duration": "3 hours",
+          "rating": 4.8,
+          "discount": "12%"
+        },
+        {
+          "id": "hvac007",
+          "Job": "Furnace Repair",
+          "description": "Our furnace repair service is designed to quickly and efficiently fix any issues with your heating system. Whether your furnace is not producing enough heat, is making strange noises, or has stopped working altogether, our skilled technicians will diagnose and repair the problem. We handle all types of furnace repairs, including issues with burners, igniters, heat exchangers, and thermostats. Timely repairs can extend the life of your furnace and improve its efficiency, ensuring your home stays warm during the winter.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wcHBNitYkRXmJF-8St2CI7y-zmtLqcZHrg&s",
+          "price": "₹2500",
+          "duration": "2 hours",
+          "rating": 4.7,
+          "discount": "10%"
+        },
+        {
+          "id": "hvac008",
+          "Job": "Air Purifier Installation",
+          "description": "Air purifiers are a great way to improve the air quality in your home or office, especially for those with allergies or respiratory issues. Our experts install air purifiers that remove dust, allergens, bacteria, and viruses from the air. We ensure that the unit is properly installed, configured, and placed for optimal air circulation and filtration. Whether you need a portable air purifier for a room or a whole-home air purification system, our installation services will help you breathe easier and healthier air.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWH-gdcZwKRceXwovaHp1TDMDM987itJt8w&s",
+          "price": "₹2500",
+          "duration": "1 hour",
+          "rating": 4.6,
+          "discount": "10%"
+        },
+        {
+          "id": "hvac009",
+          "Job": "HVAC System Tune-Up",
+          "description": "An HVAC system tune-up ensures that your heating and cooling systems are in top working condition. Our technicians will inspect and clean all major components of your system, including the compressor, coils, refrigerant, and thermostat. We’ll check for wear and tear, clean the filters, and ensure everything is running smoothly. Regular tune-ups can prevent costly repairs, improve energy efficiency, and prolong the lifespan of your HVAC system, ensuring your home stays comfortable year-round.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFskGwbP5pW_RHxtW3XHV10PkmFcwIUo1Vaw&s",
+          "price": "₹2000",
+          "duration": "2 hours",
+          "rating": 4.8,
+          "discount": "15%"
+        },
+        {
+          "id": "hvac010",
+          "Job": "HVAC System Replacement",
+          "description": "When your HVAC system is beyond repair or is no longer efficient, a full system replacement may be necessary. Our team helps you choose a new energy-efficient system that fits your home’s size and heating/cooling needs. We provide full installation, including the removal of the old system and installing the new one, ensuring it operates optimally. A new HVAC system can help lower energy costs, increase comfort, and reduce the likelihood of frequent repairs. Our experts will guide you through the process, ensuring the best solution for your home.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8tGMY55vPiTUQsNfUp3Bc5lPpjRGdQzX5Q&s",
+          "price": "₹15000",
+          "duration": "5 hours",
+          "rating": 4.9,
+          "discount": "12%"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "price": "₹799",
+      "name": "Carpentry",
+      "image": "https://cdn-icons-png.flaticon.com/128/12479/12479483.png",  
+      "description": "Our carpentry services include expert craftsmanship for furniture assembly, door installation, cabinet making, and more. We ensure precision, durability, and aesthetic appeal in every project.",
+      "sub_services": [
+        {
+          "id": "carp001",
+          "Job": "Furniture Assembly",
+          "description": "Furniture assembly is an essential service for anyone looking to set up new furniture pieces. Our expert carpenters efficiently assemble all kinds of flat-pack furniture, from bookshelves to wardrobes. We ensure that all components are securely assembled, with attention to detail for sturdiness and durability. Whether it’s a single piece or a full home setup, we handle each task with care, ensuring your furniture is correctly aligned and ready for use. Our service is ideal for customers who want to avoid the frustration of assembling complex furniture themselves. We also ensure the furniture is positioned correctly and make any necessary adjustments for a perfect fit in your space.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-H0swLhktBdyacYe_tPK-GqO8xG4XfieWYw&s",
+          "price": "₹499",
+          "duration": "1 hour",
+          "rating": 4.6,
+          "discount": "5%"
+        },
+        {
+          "id": "carp002",
+          "Job": "Door Installation",
+          "description": "Door installation is a crucial service for improving the security and aesthetics of your home or office. Our professional carpenters ensure precise measurements and proper fitting for all types of doors, whether interior or exterior. We handle the installation of wooden, glass, or composite doors, ensuring they are correctly aligned with the frame and function smoothly. We also provide solutions for door hardware, such as handles and locks, ensuring a fully functional and secure installation. This service is ideal for new homes, renovations, or upgrades. We ensure that the door enhances both the look and safety of your space.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCdNQZubh5JVbHS-76ft9A6AmH5SjAXMl7UA&s",
+          "price": "₹799",
+          "duration": "2 hours",
+          "rating": 4.7,
+          "discount": "10%"
+        },
+        {
+          "id": "carp003",
+          "Job": "Cabinet Making",
+          "description": "Cabinet making is a specialized carpentry service that focuses on creating custom storage solutions for your kitchen, bathroom, or office. Our carpenters design and build cabinets that fit your space perfectly, offering both functionality and style. Whether you need sleek, modern cabinets or traditional wooden designs, we craft each piece with attention to detail. We use high-quality wood and finishes, ensuring the cabinets are durable and aesthetically pleasing. Cabinet making is ideal for homeowners looking to upgrade their storage or create a customized solution for their space. We provide a wide variety of styles, sizes, and finishes to match your vision.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrJ9E5UkRyPBQcOjZbOz224JtHtKu3umXDw&s",
+          "price": "₹1499",
+          "duration": "3 hours",
+          "rating": 4.8,
+          "discount": "12%"
+        },
+        {
+          "id": "carp004",
+          "Job": "Wooden Flooring Installation",
+          "description": "Wooden flooring installation can transform the look of any room, adding warmth, elegance, and value to your space. Our skilled carpenters install high-quality wooden floors, including hardwood, engineered wood, and laminate, with precision. We ensure that the wood is properly acclimatized before installation to prevent warping or buckling over time. The installation process includes precise measurements, proper alignment, and secure fixing to the subfloor. Wooden flooring is ideal for homes, offices, and commercial spaces that require a durable and visually appealing floor covering. We ensure the installation is quick, neat, and professionally done, with minimal disruption to your daily routine.",
+          "image": "https://5.imimg.com/data5/SELLER/Default/2024/3/397990404/BF/FW/KQ/144208802/hardwood-flooring-installation-service.jpg",
+          "price": "₹2499",
+          "duration": "4 hours",
+          "rating": 4.7,
+          "discount": "8%"
+        },
+        {
+          "id": "carp005",
+          "Job": "Window Frame Installation",
+          "description": "Window frame installation is a key service for enhancing the structural integrity and insulation of your home. Our carpenters install wooden, PVC, and aluminum window frames with precision, ensuring a perfect fit and secure sealing. We work with both new and existing window openings, ensuring the frame is aligned and securely anchored. Proper window installation also helps with insulation, reducing energy costs. We ensure the frame is aesthetically pleasing and complements the design of your space. This service is ideal for new constructions, renovations, or when upgrading old frames for better performance.",
+          "image": "https://media.istockphoto.com/id/1329484433/photo/the-worker-inserts-glass-into-the-window-frame-triple-glazing-of-the-plastic-window.jpg?s=612x612&w=0&k=20&c=7Wm1x-z6Z6oHyCQTQtlSR5NRtj77xIBPl0tjD1JFV78=",
+          "price": "₹1299",
+          "duration": "2 hours",
+          "rating": 4.6,
+          "discount": "7%"
+        },
+        {
+          "id": "carp006",
+          "Job": "Staircase Construction",
+          "description": "Staircase construction is a complex carpentry service that adds both functionality and beauty to multi-level homes or buildings. Our carpenters design and build custom staircases that are both sturdy and visually appealing. We use high-quality wood and materials to craft staircases that fit your space perfectly. The construction process includes measuring the rise and run of the stairs, ensuring they comply with safety regulations, and providing the perfect finish to complement your interior design. This service is ideal for both new constructions and home renovations. We ensure your staircase is a beautiful and functional feature of your space.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYxVC655Ltb56iSoI0tjd3yTgkOVfzCrrd1A&s",
+          "price": "₹4999",
+          "duration": "5 hours",
+          "rating": 4.8,
+          "discount": "10%"
+        },
+        {
+          "id": "carp007",
+          "Job": "Shelving and Storage Solutions",
+          "description": "Shelving and storage solutions are essential for maximizing space and keeping your home or office organized. Our carpenters design and install custom shelving units that fit your storage needs and aesthetic preferences. Whether you need open shelves, closed cabinets, or built-in storage, we create solutions that are functional and stylish. We use high-quality wood and finishes to ensure durability and a premium look. Shelving is ideal for bedrooms, living rooms, kitchens, and offices. We ensure a perfect fit for your space, transforming unused areas into organized and visually appealing storage solutions.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSakGLHBXmcsz5PTWqb1NAPiDbg8LKuDNj8xg&s",
+          "price": "₹999",
+          "duration": "2 hours",
+          "rating": 4.7,
+          "discount": "8%"
+        },
+        {
+          "id": "carp008",
+          "Job": "Deck and Patio Construction",
+          "description": "Deck and patio construction enhances your outdoor living space, providing a perfect area for relaxation and entertainment. Our carpenters design and build custom decks and patios using durable materials like wood, composite, and stone. We ensure that the deck is structurally sound, with proper foundations and weather-resistant finishes. Whether you’re looking to create a small balcony or a large outdoor entertainment area, we provide personalized solutions that suit your space and needs. This service is ideal for homeowners who want to enhance their outdoor areas with a functional and beautiful deck or patio. We ensure the construction is completed to the highest standards.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1R4OJkTdBGfM0WEYr6T8YP_a3eEmGmT_Qw&s",
+          "price": "₹7999",
+          "duration": "6 hours",
+          "rating": 4.9,
+          "discount": "12%"
+        },
+        {
+          "id": "carp009",
+          "Job": "Custom Woodworking",
+          "description": "Custom woodworking is a specialized service that offers personalized solutions for your carpentry needs. Whether you need custom furniture, cabinetry, or decor, our expert carpenters craft high-quality, one-of-a-kind pieces tailored to your exact specifications. We work with a variety of wood types and finishes, ensuring your custom piece fits seamlessly into your space. This service is ideal for clients who want a unique, personalized touch for their home or office. Our team pays attention to detail, ensuring every piece is built to perfection and exceeds your expectations.",
+          "image": "https://media.istockphoto.com/id/131545320/photo/man-smoothing-wood-cabinet-with-scraper.jpg?s=612x612&w=0&k=20&c=qgqpDGt59-pidz69odfL0DIZe9AhZlakXx8CSa2-HVg=",
+          "price": "₹2999",
+          "duration": "5 hours",
+          "rating": 4.8,
+          "discount": "15%"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "price": "₹799",
+      "name": "Pest Control",
+      "image": "https://cdn-icons-png.flaticon.com/128/10724/10724523.png",
+      "description": "Our pest control services provide effective solutions for common household pests. Our trained technicians use safe, eco-friendly methods to eliminate pests like ants, cockroaches, termites, and rodents. We offer inspections, treatments, and preventative measures to ensure your home remains pest-free. Our services are tailored to your specific needs, ensuring a safe and healthy environment for you and your family. We also provide follow-up services to monitor and prevent future infestations.",
+      "sub_services": [
+        {
+          "id": "pest001",
+          "Job": "General Pest Control",
+          "description": "Our general pest control service is designed to eliminate common pests such as ants, cockroaches, flies, and spiders from your home or office. We use safe, eco-friendly treatments to ensure your space is free of pests while protecting your family and pets. Our technicians thoroughly inspect the premises and treat high-risk areas to prevent pests from returning. This service is ideal for regular maintenance and keeping your living spaces clean and pest-free.",
+          "image": "https://ecopm.com.au/wp-content/uploads/2021/08/pest-control-cairns-end-of-lease.jpg",
+          "price": "₹1200",
+          "duration": "1 hour",
+          "rating": 4.7,
+          "discount": "10%"
+        },
+        {
+          "id": "pest002",
+          "Job": "Termite Control",
+          "description": "Termites can cause significant damage to the wooden structures in your home or business. Our termite control service provides a comprehensive solution to protect your property. We begin with a thorough inspection to identify the source of infestation, followed by targeted treatment using the latest technology and eco-friendly chemicals. Whether you're dealing with a small infestation or need preventative measures, we ensure your property is safe from termite damage.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnrsR-8YjfgjHIXgjPAmde--5qi-sgcudzGA&s",
+          "price": "₹2500",
+          "duration": "2 hours",
+          "rating": 4.8,
+          "discount": "15%"
+        },
+        {
+          "id": "pest003",
+          "Job": "Rodent Control",
+          "description": "Rodents such as rats and mice can cause serious damage to your property and pose health risks. Our rodent control service includes a detailed inspection of your home or business to identify entry points and signs of infestation. We use humane and effective traps, baiting methods, and sealing techniques to eliminate rodents. Our goal is to prevent future infestations while ensuring a safe and sanitary environment for your family or staff.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYMVKN7YxHzn-5lCqxMddWEEHUPJhSGp4tVhsMYKn68hDwMxkgJM-IuLH-box-zZuJ4Xk&usqp=CAU",
+          "price": "₹1500",
+          "duration": "1.5 hours",
+          "rating": 4.7,
+          "discount": "12%"
+        },
+        {
+          "id": "pest004",
+          "Job": "Bed Bug Treatment",
+          "description": "Bed bugs are notorious for their ability to hide in cracks, crevices, and furniture, making them difficult to eradicate. Our bed bug treatment service includes a thorough inspection of all areas, followed by targeted treatments using heat, sprays, and dusts that are safe for humans but lethal to bed bugs. We also provide advice on preventing future infestations, ensuring you get a good night's sleep without worrying about bites.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLA6Ly7_Zxo4dJnR0De5K3ULiA6smInRRAZkeJhjxgAhGzhpQzqHjRP9y1AUyKoCl1vAk&usqp=CAU",
+          "price": "₹2500",
+          "duration": "2 hours",
+          "rating": 4.6,
+          "discount": "10%"
+        },
+        {
+          "id": "pest005",
+          "Job": "Mosquito Control",
+          "description": "Mosquitoes can be a major nuisance, especially during the warmer months, and they also carry diseases. Our mosquito control service uses environmentally friendly solutions to eliminate mosquitoes in your yard or surrounding areas. We focus on treating stagnant water sources and spraying targeted areas to kill mosquitoes at all stages of development. Our treatments help reduce the mosquito population, allowing you to enjoy your outdoor spaces without the threat of bites.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnPnfcSchvcNoeRKWNkbIfVhoWhainLTJNKA&s",
+          "price": "₹1800",
+          "duration": "1.5 hours",
+          "rating": 4.7,
+          "discount": "8%"
+        },
+        {
+          "id": "pest006",
+          "Job": "Cockroach Control",
+          "description": "Cockroaches are one of the most common pests found in homes and businesses. Our cockroach control service includes a thorough inspection of your property, followed by targeted treatments to eliminate all cockroaches. We use safe and effective baits, traps, and sprays to control and prevent future infestations. Regular maintenance is essential to ensure that cockroaches do not return, and our team is here to help keep your environment clean and healthy.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToHoXC8MO1NI_PzsnvxqqdZU0wL93j7YQCx8B5uCudpRVIMUwXugBf82lYahzwB8zLAYg&usqp=CAU",
+          "price": "₹1000",
+          "duration": "1 hour",
+          "rating": 4.5,
+          "discount": "10%"
+        },
+        {
+          "id": "pest007",
+          "Job": "Ant Control",
+          "description": "Ant infestations can be persistent and difficult to manage without professional help. Our ant control service focuses on identifying the source of the infestation and applying targeted treatments to eliminate ants and their colonies. We use non-toxic and eco-friendly solutions to safely remove ants from your home or business. Our service also includes advice on preventing future infestations to keep your environment pest-free for the long term.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQffivD7ggIxOkKoGpXSWylVbf_fbBXjZ75Ig&s",
+          "price": "₹800",
+          "duration": "1 hour",
+          "rating": 4.6,
+          "discount": "8%"
+        },
+        {
+          "id": "pest008",
+          "Job": "Fly Control",
+          "description": "Flies can be more than just a nuisance; they can carry harmful bacteria and contaminate food. Our fly control service includes inspecting and treating areas where flies breed, such as garbage bins, drains, and compost piles. We use a combination of sprays and traps to eliminate flies and their larvae, ensuring your environment remains clean and safe. Whether in your home or commercial kitchen, we provide effective solutions to keep flies away.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKNtPxguPp7kJLfUam1kx5wIkvw8CwGhPL3_jnWYSRE9igLJ_H1YzH-YAvzeJibLnS1Rg&usqp=CAU",
+          "price": "₹1200",
+          "duration": "1 hour",
+          "rating": 4.7,
+          "discount": "10%"
+        },
+        {
+          "id": "pest009",
+          "Job": "Spider Control",
+          "description": "Spiders can be unsettling, and some species can be dangerous. Our spider control service targets common household spiders like the black widow and brown recluse, as well as other types of spiders that can invade your home. We use safe and effective methods to eliminate spiders and prevent them from returning. Our technicians inspect your home for spider habitats and treat areas where spiders tend to thrive. With our service, you can reclaim your space without worrying about spiders.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzQ-ucMIXttPnbNJnHbeKj8_eGK-KfXQ9og&s",
+          "price": "₹1000",
+          "duration": "1 hour",
+          "rating": 4.6,
+          "discount": "10%"
+        },
+        {
+          "id": "pest010",
+          "Job": "Pest Prevention and Maintenance",
+          "description": "Pest prevention and maintenance services are crucial to ensuring that pests don't return after they've been eradicated. Our team provides regular inspections and treatments to protect your home or business from future infestations. We will seal cracks and gaps in your property, eliminate potential breeding grounds, and set up preventative measures to keep pests at bay. Regular pest control maintenance helps to ensure that your environment remains pest-free all year round.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmu5o3Kog8w_l_bgoBLKaD-bb_Z6l5jPQAxX4HImg05yT4UqAf8D4Dlo-4YWa6rs1q-Fo&usqp=CAU",
+          "price": "₹1500",
+          "duration": "1.5 hours",
+          "rating": 4.8,
+          "discount": "12%"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "price": "₹799",
+      "name": "Painting & Repair",
+      "image": "https://cdn-icons-png.flaticon.com/128/1995/1995467.png",
+      "description": "Transform your space with our professional painting and repair services. We specialize in interior and exterior painting, drywall repair, and wallpaper installation. Our skilled painters use high-quality paints and techniques to ensure a flawless finish. We also handle minor repairs like patching holes, fixing cracks, and smoothing surfaces before painting. Whether it's a single room or an entire property, we work efficiently to minimize disruption. Eco-friendly options available. Our team is punctual, respectful, and dedicated to customer satisfaction. Get a free estimate today!",
+      "sub_services": [
+        {
+          "id": "paint001",
+          "Job": "Interior Wall Painting",
+          "description": "Interior wall painting is a popular service that enhances the aesthetic appeal and ambiance of your home. Our professional painters start by preparing the walls through cleaning, patching up cracks or holes, and applying primer if needed. We help you choose the right type of paint—matte, satin, or semi-gloss—based on your room's lighting and usage. Our team uses high-quality tools and techniques to ensure smooth, even coats without streaks or drips. We take care to protect your furniture and floors with coverings and clean up thoroughly once the job is done. Whether you're refreshing a single room or updating your entire home, our interior wall painting service delivers a fresh, vibrant look that lasts. We also offer color consultation to help you pick shades that reflect your style and personality. This service is ideal for routine home updates, before moving in, or to increase property value.",
+          "image": "https://media.istockphoto.com/id/1015387276/photo/man-in-a-working-overall.jpg?s=612x612&w=0&k=20&c=SiHLfl9X0lkncWAqyi8llAAG_dg4vk6mFn8JzaatQfk=",
+          "price": "₹1799",
+          "duration": "4 hours",
+          "rating": 4.8,
+          "discount": "12%"
+        },
+        {
+          "id": "paint002",
+          "Job": "Exterior Wall Painting",
+          "description": "Exterior wall painting provides your home with an attractive, durable finish that withstands weather and environmental factors. Our service includes surface preparation such as pressure washing, scraping off loose paint, sanding, and applying primers. We use weather-resistant paints that are specifically designed to endure UV rays, rain, dust, and humidity. Our experienced painters work safely on ladders and scaffolding to cover all exterior surfaces thoroughly and evenly. A new coat of exterior paint can not only increase your home's curb appeal but also protect the building material from deterioration. We recommend this service for homeowners looking to maintain or enhance their property’s appearance. Whether you're preparing for a sale or just want to give your home a facelift, our professional team ensures a flawless finish that lasts for years. We also handle trims, doors, railings, and shutters as part of the full exterior refresh.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStOpqLUrarKt_xsfrZ1tSJM9d0BwRKFGQ9nw&s",
+          "price": "₹2999",
+          "duration": "6 hours",
+          "rating": 4.7,
+          "discount": "10%"
+        },
+        {
+          "id": "paint003",
+          "Job": "Wood Polishing",
+          "description": "Wood polishing is a specialized service designed to restore and enhance the natural beauty of your wooden surfaces, including furniture, doors, windows, and cabinets. Our experts begin by sanding the surface to remove old finishes, scratches, or stains. We then apply premium wood polish, lacquer, or varnish, depending on the desired sheen—matte, semi-gloss, or high-gloss. This service not only rejuvenates the look of the wood but also protects it from moisture, pests, and wear and tear. Our team ensures a smooth and even finish with careful layering and drying techniques. Ideal for both old and new furniture, this service helps extend the life of your wooden assets and maintain their luster. We take extra care to match the existing color and grain patterns to retain the original aesthetic. Whether it's a classic dining table or antique wardrobe, we bring out its best version.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlYIZggwuNY9uFdhUNq4BocM2bRvR7MumbBA&s",
+          "price": "₹1199",
+          "duration": "2.5 hours",
+          "rating": 4.6,
+          "discount": "8%"
+        },
+        {
+          "id": "paint004",
+          "Job": "Wall Crack Repair",
+          "description": "Wall crack repair is a crucial maintenance task that prevents structural damage and restores the integrity of your walls. Our team begins by identifying the cause of the crack—whether it's due to settling, moisture, or wear—and selects the appropriate method for repair. We clean out the crack, fill it with a high-quality filler or joint compound, and sand it down for a smooth surface. Once the crack is sealed, we repaint the area to match the existing wall, leaving no visible trace. This service is suitable for both minor cosmetic cracks and more significant structural gaps. Timely crack repair prevents further deterioration and avoids water seepage or pest intrusion. Our team ensures a lasting, seamless finish that blends perfectly with your interior. Ideal for homes with aging walls or after renovations, this service improves both appearance and durability of your living space.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMY2AAqinQI5alh65AR_RYwv2Ju6qyhS00Pg&s",
+          "price": "₹699",
+          "duration": "1.5 hours",
+          "rating": 4.5,
+          "discount": "5%"
+        },
+        {
+          "id": "paint005",
+          "Job": "Ceiling Painting",
+          "description": "Ceiling painting adds brightness and a polished finish to your room. Often overlooked, a freshly painted ceiling can make a room feel more spacious and clean. Our painters begin by covering furniture and floors to protect against paint drips. We clean and prime the ceiling surface to ensure proper adhesion and a uniform finish. Whether you prefer a classic white, a subtle color, or something bold, we help you choose the best paint type for humidity resistance and light reflection. This service is ideal for both residential and commercial properties undergoing renovation or maintenance. We ensure a flawless, streak-free coat using rollers or sprayers depending on the ceiling height and texture. Ceiling painting can also help hide imperfections or water stains, giving your space a refreshed and renewed appearance. It's a simple yet effective way to upgrade your interior without a major remodel.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa2tj_3TRwsXHg8cJZeR63moG5puwlJDIHbQ&s",
+          "price": "₹1299",
+          "duration": "2 hours",
+          "rating": 4.6,
+          "discount": "10%"
+        },
+        {
+          "id": "paint006",
+          "Job": "Texture Painting",
+          "description": "Texture painting is a decorative wall treatment that adds dimension, depth, and visual interest to any space. It involves applying special materials and techniques to create unique surface patterns like stucco, popcorn, comb, or swirl textures. Our skilled painters help you select the best texture based on your aesthetic preferences and room style. We prepare the walls by cleaning and priming, then apply the base and texture layers carefully using tools like rollers, brushes, or trowels. Texture painting is ideal for feature walls, living rooms, and commercial spaces aiming for a more luxurious or rustic look. It also helps conceal wall imperfections and improves the durability of wall surfaces. Our service includes design consultation and finish options like metallic, matte, or glossy topcoats. With our expertise, your space transforms into a stylish and artistic environment that reflects your personal taste and creativity.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNNucjknowOjXhDq-7NEMoDD-YOchrPhEFNQ&s",
+          "price": "₹2499",
+          "duration": "3.5 hours",
+          "rating": 4.8,
+          "discount": "15%"
+        },
+        {
+          "id": "paint007",
+          "Job": "Metal Surface Painting",
+          "description": "Metal surface painting involves preparing and painting metal components like gates, railings, grills, and pipes to protect them from rust, corrosion, and weathering. Our process starts with removing existing rust, old paint, and dirt using sanding, scraping, or chemical treatments. We then apply anti-rust primer and high-quality enamel or oil-based paints that ensure long-term durability. Our painters use brushes or spray tools for a smooth, even finish. This service not only extends the lifespan of your metal structures but also enhances their appearance. Available in various finishes like matte, glossy, or hammered, the paint resists peeling, cracking, and UV damage. Ideal for homes, offices, and industrial settings, our metal painting service guarantees protection and style. We also offer color consultation and touch-up services for a consistent look throughout your property. Your metalwork will be left looking brand new and well protected.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrUThMTXIsGoCK8xUlLJz7Ggtm1IkPw-NAg&s",
+          "price": "₹799",
+          "duration": "2 hours",
+          "rating": 4.7,
+          "discount": "10%"
+        },
+        {
+          "id": "paint008",
+          "Job": "Door and Window Painting",
+          "description": "Door and window painting is a focused service that revitalizes the look and durability of these essential fixtures. Our painters begin by removing old paint, sanding the surfaces, and applying primer to ensure long-lasting results. We use high-quality paints that are resistant to scratches, weather, and everyday use. Whether you're updating your interior doors or exterior windows, we ensure clean lines, smooth finishes, and uniform color coverage. The service also includes sealing and minor repairs to ensure there are no gaps or cracks that could lead to air or water leaks. This service is perfect for enhancing curb appeal, maintaining wood integrity, and ensuring a polished appearance throughout your home. Choose from a variety of colors and finishes to match your interior décor or exterior trim. Our professionals ensure minimal mess and quick turnaround so you can enjoy a refreshed look without hassle.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_frY9fumE8nFvPjPlQddM72f5Zd3GCi5Fgw&s",
+          "price": "₹999",
+          "duration": "2 hours",
+          "rating": 4.6,
+          "discount": "8%"
+        },
+        {
+          "id": "paint009",
+          "Job": "Wall Stencil Painting",
+          "description": "Wall stencil painting adds creative and artistic flair to your space through pre-designed patterns and motifs. This decorative painting technique is ideal for accent walls, kids’ rooms, cafes, or offices seeking a unique ambiance. Our team begins by helping you choose from a variety of stencil designs ranging from floral and geometric to custom graphics. We prepare the wall with a base coat and apply the stencil using brushes or rollers with precision and attention to detail. The paints used are durable, washable, and eco-friendly. Stencil painting allows you to personalize your walls with designs that reflect your taste without committing to permanent wallpaper. It is an economical way to introduce patterns and creativity to a room. Our painters ensure a clean application with sharp edges and smooth finishes. The result is a custom look that transforms plain walls into visually stunning works of art.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQF0TTlkSyTYuDDkxn1QI4nd7LHAQ93_f-g&s",
+          "price": "₹1899",
+          "duration": "3 hours",
+          "rating": 4.8,
+          "discount": "12%"
+        },
+        {
+          "id": "paint010",
+          "Job": "Waterproof Coating",
+          "description": "Waterproof coating is a protective service that shields walls, terraces, basements, and roofs from moisture damage, seepage, and mold. Our experts begin by inspecting the surface for cracks or dampness, then clean and prime the area thoroughly. We apply a waterproofing layer using high-performance elastomeric or acrylic-based products that offer excellent adhesion and elasticity. This service helps maintain the structural integrity of your home and prevents water from penetrating the walls during the monsoon or humid conditions. It’s especially beneficial for bathrooms, kitchens, external walls, and balconies. The coating also enhances the longevity of the paint, reducing the need for frequent maintenance. We ensure a seamless application that resists peeling and flaking, giving your home a long-lasting protective barrier. Our waterproofing solutions come with warranties and are suitable for both residential and commercial spaces requiring moisture control.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJlLAjJ68IrmnXsqORnLnsF9ZBULVnWKR7Q&s",
+          "price": "₹2299",
+          "duration": "3.5 hours",
+          "rating": 4.9,
+          "discount": "15%"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "price": "₹799",
+      "name": "Appliance Repair",
+      "image": "https://cdn-icons-png.flaticon.com/128/16872/16872547.png",
+      "description": "Expert appliance repair services for all major brands and models. Our certified technicians diagnose and fix issues with refrigerators, washers, dryers, ovens, and more. We offer same-day service for urgent repairs and provide a warranty on all work. Common repairs include compressor replacement, door seal fixes, and circuit board repairs. We also offer maintenance services to extend the life of your appliances. Our team is trained in the latest technologies and safety protocols. Schedule an appointment today for fast, reliable service.",
+      "sub_services": [
+        {
+          "id": "appl001",
+          "name": "Refrigerator Repair",
+          "description": "Our Refrigerator Repair service ensures that your fridge runs efficiently and reliably. Whether it’s cooling issues, water leakage, or unusual noises, our trained technicians are equipped to diagnose and fix a wide range of refrigerator problems. We service all major brands and models, using only genuine replacement parts to ensure long-term performance. This service includes a thorough inspection, cleaning of internal components like coils and fans, and resolving any mechanical or electrical faults. We also offer expert advice on maintaining optimal fridge performance and energy efficiency. Ideal for single-door, double-door, or side-by-side refrigerators, this service guarantees that your food remains fresh and your appliance performs at its best. Trust us for fast, reliable, and affordable refrigerator repairs right at your doorstep.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwM4S4ONDEYVs7ALW1Ziei2YsKLeksycKD4A&s",
+          "price": "₹499",
+          "duration": "60 mins",
+          "rating": 4.6,
+          "discount": "10%"
+        },
+        {
+          "id": "appl002",
+          "name": "Washing Machine Repair",
+          "description": "Our Washing Machine Repair service covers all major issues such as water leakage, drainage problems, spin malfunctions, or power supply faults. Whether you own a front-load, top-load, or semi-automatic washing machine, our experienced technicians handle repairs efficiently. We use genuine spare parts and ensure complete testing post-repair for safe and smooth operation. This service includes checking the drum, motor, pipes, and control panel. Our professionals also provide tips for proper maintenance and optimal detergent usage to prevent future breakdowns. We value your time and offer prompt doorstep service at your convenience. Book now to extend the life of your washing machine and restore its full functionality.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8Iu8kzmRCceEBbt-4nQjI3bQs8QrT0yMrQ&s",
+          "price": "₹449",
+          "duration": "60 mins",
+          "rating": 4.7,
+          "discount": "15%"
+        },
+        {
+          "id": "appl003",
+          "name": "Air Conditioner Repair",
+          "description": "Our Air Conditioner Repair service ensures your AC functions optimally during hot weather. We address common issues such as insufficient cooling, refrigerant leakage, foul smells, and unusual noises. Our certified technicians perform gas refilling, condenser cleaning, compressor inspection, and PCB diagnosis. We cater to both window and split AC units from all major brands. This service also includes checking thermostat accuracy and ensuring your AC runs efficiently without consuming excess electricity. We prioritize fast response times and complete the service at your preferred schedule. Don’t let AC problems disrupt your comfort—book our expert repair service today and keep your space cool and fresh.",
+          "image": "https://www.shutterstock.com/image-photo/repairman-fix-air-conditioning-systems-600nw-2463365013.jpg",
+          "price": "₹599",
+          "duration": "90 mins",
+          "rating": 4.8,
+          "discount": "10%"
+        },
+        {
+          "id": "appl004",
+          "name": "Microwave Oven Repair",
+          "description": "This service focuses on repairing microwave ovens facing heating issues, sparking, broken buttons, or display errors. Our Microwave Oven Repair includes a detailed inspection of the magnetron, fuse, and internal circuitry. We ensure safe handling of high-voltage components and offer quick replacement of faulty parts with genuine spares. We handle solo, grill, and convection microwaves from various brands. Our technicians also provide a safety and usage check to ensure the appliance operates smoothly post-repair. Convenient doorstep service ensures minimal downtime and maximum efficiency. Ideal for home kitchens, hostels, or commercial spaces needing fast and expert microwave repair support.",
+          "image": "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/w_400,dpr_2,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/supply/customer-app-supply/1744364251339-ec8fdc.jpeg",
+          "price": "₹399",
+          "duration": "45 mins",
+          "rating": 4.5,
+          "discount": "12%"
+        },
+        {
+          "id": "appl005",
+          "name": "Water Purifier Repair",
+          "description": "Our Water Purifier Repair service ensures clean and safe drinking water by fixing common issues such as low water flow, unusual taste, or leaking filters. We service all types of RO, UV, and UF water purifiers. Our technicians check the pump, filters, membrane, and tubing, and replace worn-out parts with certified components. We also sanitize the tank and ensure proper TDS levels for water purity. The service includes a full performance check and suggestions for future maintenance. This reliable and affordable repair solution helps keep your family healthy while extending the lifespan of your water purifier.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX6ol-miChxijezdkG4ZSE6kzn9JQAxMU9aQ&s",
+          "price": "₹499",
+          "duration": "60 mins",
+          "rating": 4.6,
+          "discount": "10%"
+        },
+        {
+          "id": "appl006",
+          "name": "Dishwasher Repair",
+          "description": "Our Dishwasher Repair service ensures your kitchen runs smoothly by resolving problems like water not draining, dishes remaining dirty, or buttons not responding. Technicians check the spray arms, filters, drainage pipes, motor, and electronic control system. We use only genuine spare parts and offer doorstep diagnosis and repair for both built-in and portable models. The service includes a detailed inspection, part replacement if required, and advice on detergent use and loading patterns. Let us bring your dishwasher back to top condition and help you avoid the hassle of manual dishwashing. Quick and professional service is just a booking away.",
+          "image": "https://media.istockphoto.com/id/609690174/photo/repairman-repairing-dishwasher-with-screwdriver-in-kitchen.jpg?s=612x612&w=0&k=20&c=QO0stdKXsWKjDFCyLzeCC7R4RlbQzHcdGfBM6OasNps=",
+          "price": "₹549",
+          "duration": "75 mins",
+          "rating": 4.7,
+          "discount": "10%"
+        },
+        {
+          "id": "appl007",
+          "name": "Geyser Repair",
+          "description": "Our Geyser Repair service caters to electric and gas water heaters with issues like no heating, water leakage, or tripped circuit breakers. The technician will inspect the thermostat, heating element, tank, and wiring. Whether it’s a storage or instant geyser, our experts offer quick repairs with original parts to ensure safety and performance. This service is ideal during the winter months or whenever your hot water supply is compromised. We also offer preventive maintenance tips to avoid frequent breakdowns. Enjoy uninterrupted hot water supply with our hassle-free and affordable geyser repair service at home.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vRbV1PZpz2fbdy3HW2Q-lvYxcJlD7noAww&s",
+          "price": "₹399",
+          "duration": "45 mins",
+          "rating": 4.6,
+          "discount": "15%"
+        },
+        {
+          "id": "appl008",
+          "name": "Television Repair",
+          "description": "Facing screen issues, no picture, distorted sound, or remote not working? Our Television Repair service covers all common faults across LED, LCD, and Smart TVs. Our expert technicians perform diagnostics and fix backlight, motherboard, speaker, or display problems. The service includes complete functionality testing post-repair to ensure your entertainment isn't interrupted. We handle TVs from all major brands and models. With affordable pricing and on-site repair, enjoy the convenience of quick fixes without having to carry your TV to a service center. Book now to restore your TV’s performance and viewing experience.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3l-kF4oV2WWSxT08HzKnlpIF1Q1UBmU1YyA&s",
+          "price": "₹499",
+          "duration": "60 mins",
+          "rating": 4.5,
+          "discount": "10%"
+        },
+        {
+          "id": "appl009",
+          "name": "Mixer/Grinder Repair",
+          "description": "This service resolves common issues in kitchen mixers and grinders such as blade malfunctions, motor noise, overheating, and wiring faults. Our technicians inspect the appliance thoroughly and replace faulty bearings, couplers, or jars as needed. This is a cost-effective solution to keep your kitchen operations smooth without needing a new appliance. We service all popular brands and ensure repairs are done with original parts. You’ll also receive maintenance tips for extending the life of your appliance. Book this quick, doorstep service and enjoy hassle-free grinding and mixing.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ltYaTdqnslmPP6y14XFed7-faKBMjnYnrA&s",
+          "price": "₹299",
+          "duration": "30 mins",
+          "rating": 4.6,
+          "discount": "20%"
+        },
+        {
+          "id": "appl010",
+          "name": "Chimney Repair",
+          "description": "Our Chimney Repair service tackles suction problems, noise, motor faults, and clogged filters in kitchen chimneys. We service wall-mounted, island, and built-in models across various brands. The technician inspects the motor, fan, and duct system, cleans internal components, and replaces worn-out parts with genuine replacements. This service helps improve air quality, eliminate odors, and reduce fire hazards caused by grease buildup. We also offer advice on routine chimney maintenance to ensure long-term functionality. Book this expert service and keep your kitchen clean, safe, and smoke-free.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5FAhI9OTp3MHNkYyVZbMUofo-TS3cPL3sA&s",
+          "price": "₹499",
+          "duration": "60 mins",
+          "rating": 4.7,
+          "discount": "10%"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "price": "₹799",
+      "name": "Grooming services",
+      "image": "https://cdn-icons-png.flaticon.com/128/2138/2138324.png",
+      "description": "Our grooming services provide professional care for hair, skin, and overall appearance. From haircuts to facials, our experts ensure you look and feel your best.",
+      "sub_services": [
+        {
+          "id": "groom001",
+          "Job": "Haircut & Styling",
+          "description": "Professional haircut and styling services tailored to your preferences. Our experienced stylists ensure you get the look you desire, whether it's a simple trim or a complete makeover. This service includes a consultation, wash, cut, and styling.",
+          "image": "https://media.istockphoto.com/id/1677718095/photo/young-man-having-a-haircut-at-barber-shop.jpg?s=612x612&w=0&k=20&c=4tZJsoLn1zdNZXzFWKtnC1KpPk-b-zBsw5R2HbV6QUw=",
+          "price": "₹500",
+          "duration": "1 hour",
+          "rating": 4.8,
+          "discount": "10%"
+        },
+        {
+          "id": "groom002",
+          "Job": "Beard Grooming",
+          "description": "Keep your beard looking sharp and well-maintained with our beard grooming service. This includes trimming, shaping, and conditioning to give you a polished appearance.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gKs7owM-DP73RxYTBim1srHNenb23mHLOQ&s",
+          "price": "₹300",
+          "duration": "30 mins",
+          "rating": 4.7,
+          "discount": "5%"
+        },
+        {
+          "id": "groom003",
+          "Job": "Facial Treatment",
+          "description": "Rejuvenate your skin with our customized facial treatments. Suitable for all skin types, our facials cleanse, exfoliate, and nourish your skin, leaving it refreshed and glowing.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDWKZpGNL4W8tMWOZLNk1y49W4EIruc0Y1Q&s",
+          "price": "₹700",
+          "duration": "1.5 hours",
+          "rating": 4.9,
+          "discount": "15%"
+        },
+        {
+          "id": "groom004",
+          "Job": "Manicure",
+          "description": "Pamper your hands with our manicure service, which includes nail trimming, shaping, cuticle care, and a relaxing hand massage. Finish with your choice of polish for a polished look.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9STgAAZxdAcq9_0LTJDtpX_l9xNJWAU-qIA&s",
+          "price": "₹400",
+          "duration": "1 hour",
+          "rating": 4.6,
+          "discount": "10%"
+        },
+        {
+          "id": "groom005",
+          "Job": "Pedicure",
+          "description": "Treat your feet to our pedicure service, featuring nail care, exfoliation, and a soothing foot massage. Perfect for relaxation and maintaining healthy feet.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoX4PRhDvp9SNiY8TQQj4CI1OhQC7u_rZd2g&s",
+          "price": "₹450",
+          "duration": "1 hour",
+          "rating": 4.7,
+          "discount": "10%"
+        },
+        {
+          "id": "groom006",
+          "Job": "Body Massage",
+          "description": "Relax and unwind with our full-body massage therapy. Our skilled therapists use various techniques to relieve stress, improve circulation, and promote overall well-being.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Pzy-0hjTIFj3BuaVgA1jY9uEyqUfG8qwAw&s",
+          "price": "₹1,200",
+          "duration": "1.5 hours",
+          "rating": 4.9,
+          "discount": "12%"
+        },
+        {
+          "id": "groom007",
+          "Job": "Waxing Services",
+          "description": "Achieve smooth, hair-free skin with our professional waxing services. We offer waxing for various body parts, ensuring a comfortable and hygienic experience.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQsj_AUXuk9OHWlNiBj87UbVu1JHAY77Au-Q&s",
+          "price": "₹600",
+          "duration": "1 hour",
+          "rating": 4.5,
+          "discount": "10%"
+        },
+        {
+          "id": "groom008",
+          "Job": "Hair Coloring",
+          "description": "Transform your look with our hair coloring services. Whether you're looking for a subtle change or a bold new color, our experts use high-quality products to achieve the desired result.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUyfcLxqw0fvpJBfNWJc8GxNRnPO0lrbo_A&s",
+          "price": "₹1,000",
+          "duration": "2 hours",
+          "rating": 4.8,
+          "discount": "10%"
+        },
+        {
+          "id": "groom009",
+          "Job": "Scalp Treatment",
+          "description": "Maintain a healthy scalp with our specialized treatments that address issues like dandruff, dryness, and oiliness. Our therapists use nourishing products to revitalize your scalp and promote hair health.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj-5zsGprjQ1jrsvCym1ewA0HU1o86meu_dg&s",
+          "price": "₹800",
+          "duration": "1 hour",
+          "rating": 4.7,
+          "discount": "10%"
+        },
+        {
+          "id": "groom010",
+          "Job": "Bridal Makeup",
+          "description": "Look your best on your special day with our professional bridal makeup services. Our makeup artists work with you to create a look that enhances your natural beauty and complements your attire.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqFsfpv0l0ZNGkDz4tZ535HC4hdoosQksowg&s",
+          "price": "₹5,000",
+          "duration": "3 hours",
+          "rating": 5.0,
+          "discount": "5%"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "price": "₹799",
+      "name": "home organising services",
+      "image": "https://cdn-icons-png.flaticon.com/128/10206/10206074.png",
+      "description": "Transform your space with our professional home organizing services. We specialize in decluttering, space planning, and creating functional systems tailored to your needs. Our team works with you to sort, categorize, and organize items in every room of your home, from kitchens and closets to garages and offices. We offer personalized solutions that maximize space and improve efficiency. Eco-friendly practices are used, including donating unwanted items and recycling. Enjoy a stress-free environment with our expert organizing services.",
+      "sub_services": [
+        {
+          "id": "org001",
+          "Job": "Home Decluttering",
+          "description": "Our experts assist in decluttering your home, creating organized and functional living spaces. We help sort, categorize, and remove unnecessary items, ensuring your home is tidy and stress-free.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxxL1LppYv__m-h6Ud14HGYjeb9HFjw3_FzA&s",
+          "price": "₹1,500",
+          "duration": "3 hours",
+          "rating": 4.8,
+          "discount": "10%"
+        },
+        {
+          "id": "org002",
+          "Job": "Wardrobe Organization",
+          "description": "We help you streamline your wardrobe by organizing clothes, accessories, and shoes. Our service includes decluttering, arranging items by category, and implementing storage solutions for easy access.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa6Ur4fqghYXlgQ2cVrQ2ikbcKhjpcVw5Kmg&s",
+          "price": "₹1,000",
+          "duration": "2 hours",
+          "rating": 4.7,
+          "discount": "5%"
+        },
+        {
+          "id": "org003",
+          "Job": "Kitchen Organization",
+          "description": "Optimize your kitchen space with our organization service. We arrange utensils, pantry items, and cookware to enhance functionality and make cooking more efficient.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOGQel_cd8e_nsXr8HlOVwsws6ovhTNULlmw&s",
+          "price": "₹1,200",
+          "duration": "2.5 hours",
+          "rating": 4.9,
+          "discount": "12%"
+        },
+        {
+          "id": "org004",
+          "Job": "Office Space Organization",
+          "description": "Increase productivity by organizing your office space. We declutter desks, arrange files, and set up systems to keep your workspace tidy and efficient.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMM1K6AsSsK5EUVLuxcdg8mUzpixA-5bEIA&s",
+          "price": "₹1,800",
+          "duration": "3.5 hours",
+          "rating": 4.6,
+          "discount": "10%"
+        },
+        {
+          "id": "org005",
+          "Job": "Garage Organization",
+          "description": "Transform your garage into a well-organized space. We sort tools, sports equipment, and storage items, implementing shelving and storage solutions to maximize space.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhASJHqVeY1yeU-Y3iSP8d5SL7kQ0lskctYQ&s",
+          "price": "₹2,000",
+          "duration": "4 hours",
+          "rating": 4.7,
+          "discount": "10%"
+        },
+        {
+          "id": "org006",
+          "Job": "Paperwork Management",
+          "description": "Organize and manage your important documents and paperwork. We help create filing systems, digitize records, and ensure easy retrieval of documents when needed.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGbFTkqJReW_EzkUcUFGz7GhE8YQrwHwHBKCR7_HGhzoVllNdxs3WAa3a_x8HiM_ULsc&usqp=CAU",
+          "price": "₹1,000",
+          "duration": "2 hours",
+          "rating": 4.9,
+          "discount": "12%"
+        },
+        {
+          "id": "org007",
+          "Job": "Digital Organization",
+          "description": "Declutter your digital life by organizing files, emails, and photos. We assist in creating folder structures, backing up data, and streamlining your digital devices.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQly80Ow4yN36azK3LhcgfwRszj_GzdYEI0aQ&s",
+          "price": "₹1,500",
+          "duration": "3 hours",
+          "rating": 4.5,
+          "discount": "10%"
+        },
+        {
+          "id": "org008",
+          "Job": "Moving & Relocation Assistance",
+          "description": "Make your move stress-free with our organizing assistance. We help pack, label, and organize belongings for an efficient move and assist in setting up your new space.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn1cUdN942_B-BFfNFJrdMYE6DSPNy1KWfaw&s",
+          "price": "₹3,000",
+          "duration": "6 hours",
+          "rating": 4.8,
+          "discount": "10%"
+        },
+        {
+          "id": "org009",
+          "Job": "Children's Room Organization",
+          "description": "Create a functional and tidy space for your children. We organize toys, clothes, and study materials, implementing storage solutions that are easy for kids to maintain.",
+          "image": "https://www.eurokidsindia.com/blog/wp-content/uploads/2023/06/organization-ideas-for-toys-870x570.jpg",
+          "price": "₹1,200",
+          "duration": "2.5 hours",
+          "rating": 4.7,
+          "discount": "10%"
+        },
+        {
+          "id": "org010",
+          "Job": "Event Preparation & Cleanup",
+          "description": "Ensure your event runs smoothly with our organization services. We assist in setting up, organizing materials, and provide post-event cleanup to leave the venue spotless.",
+          "image": "https://lirp.cdn-website.com/4faf35dac49249a89cb59c8c2b2558ed/dms3rep/multi/opt/1532325-GettyImages-149373772-640w.jpg",
+          "price": "₹2,500",
+          "duration": "5 hours",
+          "rating": 5.0,
+          "discount": "5%"
+        }
+      ]
+    }
+  ]
+}
